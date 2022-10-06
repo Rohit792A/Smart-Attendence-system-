@@ -8,11 +8,11 @@ This project intended to automate the attendance recording process. The results 
 
 In conclusion, the project had achieved its objectives :
 
-Ultimately save lecturers’ time in managing attendance,
+1. Ultimately save lecturers’ time in managing attendance,
 
-Bring convenience to students on attendance registration,
+2. Bring convenience to students on attendance registration,
 
-And reduce the likelihood of fake attendance recordings.
+3. And reduce the likelihood of fake attendance recordings.
 
 
 The following libraries were used in the making of this project.
