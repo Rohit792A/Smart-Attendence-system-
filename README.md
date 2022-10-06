@@ -9,8 +9,12 @@ This project intended to automate the attendance recording process. The results 
 In conclusion, the project had achieved its objectives :
 
 Ultimately save lecturers’ time in managing attendance,
+
 Bring convenience to students on attendance registration,
+
 And reduce the likelihood of fake attendance recordings.
+
+
 The following libraries were used in the making of this project.
 
 1. MyQR library                               4. sys 
