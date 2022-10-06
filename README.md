@@ -18,7 +18,3 @@ The following libraries were used in the making of this project.
 2. OpenCV                                       5. pybase64
 
 3. NumPy 
-
-The GitHub link to the project is provided below :
-
-https://github.com/Rohit792A/Smart-Attendence-system-
