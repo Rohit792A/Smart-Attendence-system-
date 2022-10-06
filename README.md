@@ -17,8 +17,12 @@ In conclusion, the project had achieved its objectives :
 
 The following libraries were used in the making of this project.
 
-1. MyQR library                               4. sys 
+1. MyQR library 
 
-2. OpenCV                                       5. pybase64
+2. sys 
+                             
+3. OpenCV  
+                                     
+4. NumPy 
 
-3. NumPy 
+5. pybase64
